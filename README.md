@@ -2,8 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=timego-dev&color=gray)
 
-[![timego-dev](https://img.shields.io/badge/-timego--dev-blue)](https://github.com/timego-dev)
-
 ![404 badge not found](https://img.shields.io/badge/404-badge%20not%20found-red)
 
 *   I'm currently working on [Time Tracking Project](https://github.com/timego-dev/time-tracking-project)
@@ -169,9 +167,7 @@
   </a>
 </p>
 
-[![timego-dev](https://img.shields.io/badge/-timego--dev-blue)](https://github.com/timego-dev)
 
-[![timego-dev](https://img.shields.io/badge/-timego--dev-blue)](https://github.com/timego-dev)
 
 ## Contribution Statistics
 
@@ -182,8 +178,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=timego-dev&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=timego-dev&theme=default&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
