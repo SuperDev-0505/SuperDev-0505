@@ -4,6 +4,18 @@
 
 ![404 badge not found](https://img.shields.io/badge/404-badge%20not%20found-red)
 
+*   🔭 I'm James Montemagno
+*   🏢 I work at Microsoft where I help support developer communities
+*   📹 I make fun coding videos & stream at [https://youtube.com/jamesmontemagno](https://youtube.com/jamesmontemagno)
+*   🌱 I blog about coding & life: [https://montemagno.com](https://montemagno.com)
+*   🎙️ I have several podcasts: [https://mergeconflict.fm](https://mergeconflict.fm), [https://www.vscodepodcast.com](https://www.vscodepodcast.com), and [https://www.dotnetmauipodcast.com/](https://www.dotnetmauipodcast.com/)
+*   🦋 I'm on Blueky: [https://bsky.app/profile/james.montemagno.com](https://bsky.app/profile/james.montemagno.com)
+*   🐦 I'm on X [https://x.com/jamesmontemagno](https://x.com/jamesmontemagno)
+*   🐘 I'm on Mastodon [https://mastodon.social/@jamesmontemagno](https://mastodon.social/@jamesmontemagno)
+*   📬 How to reach me: [https://www.montemagno.com/about/](https://www.montemagno.com/about/)
+*   💕 Pronouns: he/him/his
+*   ⚡ Fun fact: I love you
+
 *   I'm currently working on [Time Tracking Project](https://github.com/timego-dev/time-tracking-project)
 *   Fun fact: Sometimes I am coding with my black cat together.
 
