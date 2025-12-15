@@ -2,7 +2,6 @@
 
 
 *   🔭 I'm Atila Manoel Soares da silva
-*   🐘 I'm on Mastodon [https://mastodon.social/@jamesmontemagno](https://mastodon.social/@jamesmontemagno)
 *   📬 How to reach me: [https://superdev-0505.github.io/profile/](https://superdev-0505.github.io/profile/)
 *   💕 Pronouns: he/him/his
 *   ⚡ Fun fact: I love you
