@@ -1,4 +1,4 @@
-# A Senior Javascript/Typescript Engineer
+# A Senior Software Engineer
 
 ![Profile views](https://komarev.com/ghpvc/?username=timego-dev&color=gray)
 
