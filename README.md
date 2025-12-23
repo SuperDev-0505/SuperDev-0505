@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TimeGo](https://timego.biz/)
 
-- 👨‍💻 All of my projects are available at [https://superdev-0505.github.io/profile/](https://superdev-0505.github.io/profile/)
+- 👨‍💻 All of my projects are available at [https://profile-superdev.vercel.app/profile/](https://profile-superdev.vercel.app/profile/)
 
 - 💬 Ask me about **React, Angular, Vue, Python, Django...**
 
